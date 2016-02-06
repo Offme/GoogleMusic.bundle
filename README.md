@@ -1,3 +1,7 @@
+**Disclaimer:** This is a fork of https://github.com/pablorusso/GoogleMusic.bundle `s [update_gmusicapi_fix_login](https://github.com/pablorusso/GoogleMusic.bundle/tree/update_gmusicapi_fix_login) branch modified to work with Plex Media Server in MacOSX.
+
+---
+
 GoogleMusic.bundle
 ==================
 
